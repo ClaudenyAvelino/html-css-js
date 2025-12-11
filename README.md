@@ -100,7 +100,7 @@ Acessos rápidos:
 ### 8. Quirks Mode 🤖
 
 Modo de renderização "antigo".
-**Evite sempre iniciando seus documentos com:**
+**Você deve SEMPRE iniciar seus documentos HTML com:**
 
 ```html
 <!DOCTYPE html>
