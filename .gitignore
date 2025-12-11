@@ -1,1 +1,20 @@
+# Ignorar a pasta de aulas específicas
 aula-11-12/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar pastas de build ou distribuição
+dist/
+build/
+
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar dependências de Node.js
+node_modules/
+
+# Ignorar arquivos temporários do sistema ou do editor
+.DS_Store
+Thumbs.db
+.vscode/
