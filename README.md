@@ -18,6 +18,7 @@ Anotações da aula sobre HTML, com foco em estruturação, ferramentas e boas p
 ---
 
 ## 📑 Conteúdo da Aula
+* [11-12 Acesse aqui](https://1drv.ms/b/c/c939bce3230fd75c/IQAi67qyRWcPRoDyKUgedX7OAb80oF-uW4C71sFnBBSSSps?e=cgAI1h)  
 
 ### 1. A Importância da Documentação W3Schools 📚
 
