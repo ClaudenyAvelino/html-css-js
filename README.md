@@ -127,9 +127,44 @@ Permite:
 ### 🧱 Estrutura Semântica do HTML5
 
 ```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Estrutura Semântica</title>
+</head>
 <body>
-  <header></header> <!-- Cabeçalho -->
-  <main></main>     <!-- Conteúdo principal -->
-  <footer></footer> <!-- Rodapé -->
+
+    <header>
+        <!-- Cabeçalho: logo, menu, título principal -->
+    </header>
+
+    <nav>
+        <!-- Navegação principal: links do menu -->
+    </nav>
+
+    <main>
+        <!-- Conteúdo principal da página -->
+
+        <section>
+            <!-- Seção de conteúdos relacionados -->
+        </section>
+
+        <article>
+            <!-- Conteúdo independente: postagem, notícia, artigo -->
+        </article>
+
+        <aside>
+            <!-- Conteúdo lateral: anúncios, links extras, informações secundárias -->
+        </aside>
+    </main>
+
+    <footer>
+        <!-- Rodapé: direitos autorais, contatos, links adicionais -->
+    </footer>
+
 </body>
+</html>
+
 ```
