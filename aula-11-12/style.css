@@ -1,9 +1,10 @@
 body{
-    background-color: rgb(139, 139, 139);
+    background-color: #e7dede;
+    font-weight: bold;
 }
 h1{
     color: #bb0707;
 }
 p{
-    color: aqua;
+    color: #000;
 }
