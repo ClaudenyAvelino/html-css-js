@@ -1,0 +1,50 @@
+<table id="tb">
+    <!-- Titulo da tabela -->
+    <caption>Produtos</caption>
+    <thead>
+        <tr>
+            <!-- th = célula de cabeçalho -->
+            <th>Produto</th>
+            <th>Preço</th>
+            <th>Quantidade</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Samsung</td>
+            <td>249,00</td>
+            <td>8</td>
+            <td>21192,00</td>
+        </tr>
+        <tr>
+            <td>Ipad</td>
+            <td>249,00</td>
+            <td>8</td>
+            <td>164445,00</td>
+        </tr>
+        <tr>
+            <td>tv</td>
+            <td>5000,00</td>
+            <td>1</td>
+            <td>5000,00</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td>Total</td>
+            <td>366637,00</td>
+        </tr>
+    </tfoot>
+</table>
+<style>
+    /* Remove o espaço entre as bordas das células */
+    #tb {
+        border-collapse: collapse;
+    }
+
+    th,
+    td {
+        padding: 10px;
+    }
+</style>
