@@ -32,8 +32,34 @@
     </tbody>
     <tfoot>
         <tr>
-            <td>Total</td>
+            <td colspan="3">Total</td>
             <td>366637,00</td>
         </tr>
     </tfoot>
 </table>
+<style>
+    /* Remove o espaço entre as bordas das células */
+    #tb {
+        border-collapse: collapse;
+
+    }
+
+    th,
+    td {
+        padding: 10px;
+    }
+
+    thead tr {
+        border-bottom: solid 3px #444;
+    }
+
+    tbody tr:hover {
+        background-color: #dedede;
+    }
+
+    tfoot {
+        background-color: #444;
+        color: #fff;
+        font-weight: bold;
+    }
+</style>
