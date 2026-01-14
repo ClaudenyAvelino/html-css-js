@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabecalho{
+    padding: 2rem; 
+    text-align: center;
+}
+.cabecalho__menu{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+.cabecalho_menu__link{
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;    
+}
+.imagens-conteiner{
+    background-color: #444;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    margin-top: 50px;
+    color: white;
+    gap: 20px;
+}
+.imagem-box{
+    height: 250px;
+}
+.imagem-box img{
+    width: 200px;
+    height: 200px;
+}
+
+
+
